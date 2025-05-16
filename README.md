@@ -1,2 +1,2 @@
 # LivehandDeveloperPlatform
-LivehandDeveloperPlatform for SITOAI
+LivehandDeveloperPlatform for SITO.AI
